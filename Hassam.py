@@ -60,8 +60,8 @@ logo = """
 
 
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
-\033[1;96m║✯ Creator ✯ JAM SHAHRUKH       ║    
-\033[1;98m║✯ JAM x MISHAL           ║  
+\033[1;96m║✯ Creator ✯ Sk Creation       ║    
+\033[1;98m║✯ Hassam x Sallu           ║  
 \033[1;96m║✯ I'm Not Responsible For Any Miss Use║
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║"""
 def tik():
@@ -126,7 +126,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open 'https://www.youtube.com/channel/UCwgUQYqGjU_2e_vRGsXbyDQ')
     else:
         print "\033[1;96mWrong Username"
         os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
